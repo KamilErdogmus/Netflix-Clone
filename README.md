@@ -34,7 +34,7 @@ This project uses The Movie Database (TMDB) API. You can find more information a
 
 ## Deployment
 
-The project is deployed and can be accessed [here](https://wonderful-sundae-e0ebc6.netlify.app/).
+The project is deployed and can be accessed [here](https://funny-piroshki-d029a8.netlify.app/).
 
 ## Installation
 
