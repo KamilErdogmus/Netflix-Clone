@@ -34,7 +34,7 @@ This project uses The Movie Database (TMDB) API. You can find more information a
 
 ## Deployment
 
-The project is deployed and can be accessed [here]().
+The project is deployed and can be accessed [here](https://wonderful-sundae-e0ebc6.netlify.app/).
 
 ## Installation
 
@@ -43,7 +43,7 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone URL_TO_YOUR_REPOSITORY
+git clone https://github.com/KamilErdogmus/Netflix-Clone.git
 ```
 
 2. Navigate to the project directory:
