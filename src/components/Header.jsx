@@ -7,7 +7,7 @@ const Header = () => {
         <Link to={"/"}>
           <img
             className="max-w-[150px]"
-            src="../assets/netflix_logo.svg"
+            src="src/assets/netflix_logo.svg"
             alt="netflix"
           />
         </Link>
